@@ -8,6 +8,9 @@ by Chan Chee-Foong on 14 Apr 2016
 - dplyr
 - ggplot2
 - lattice
+- knitr
+- markdown
+- rmarkdown
 
 
 
